@@ -14,9 +14,8 @@ I enjoy reading articles on personal development & financial literacy. I usually
 I enjoy my time when I'm travelling and discover new places and talking to the locals. I recently went to Goa, Rajasthan(2022) with my friends but I'm planning a solo trip soon. ;)
 
 ### 📫 How to reach me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ravi-mandalia-14b218138/)
+<a href="https://www.linkedin.com/in/ravi-mandalia-14b218138/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ravi Mandalia"/></a>
 &nbsp;
-
 
 <!--
 **iravimandalia/iravimandalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
