@@ -14,7 +14,7 @@ I enjoy reading articles on personal development & financial literacy. I usually
 I enjoy my time when I'm travelling and discover new places and talking to the locals. I recently went to Goa, Rajasthan(2022) with my friends but I'm planning a solo trip soon. ;)
 
 ### 📫 Connect with me:
-<a href="#" onclick='window.open("https://www.linkedin.com/in/ravi-mandalia-14b218138/");return false;'><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ravi Mandalia"/></a>
+<a href="https://www.linkedin.com/in/ravi-mandalia-14b218138/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ravi Mandalia"/></a>
 &nbsp;
 <a href="https://twitter.com/iravimandalia" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ravi Mandalia"/></a>
 &nbsp;
